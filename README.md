@@ -48,7 +48,7 @@ The analysis focuses on understanding how individuals choose investment avenues,
 
 ### 3. Impact of Savings Objectives on Investment Decisions
 
-![Savings Objectives](Dashboard-Screenshots/03_Impact_of_Savings_Objectives.png)
+![Savings Objectives](03_Impact_of_Savings_Objectives.png)
 
 ### 4. Investment Monitoring Frequency
 
