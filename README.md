@@ -40,11 +40,11 @@ The analysis focuses on understanding how individuals choose investment avenues,
 
 ### 1. Survey-Based Financial Investment Insights
 
-![Financial Investment Insights](Dashboard-Screenshots/01_Financial_Investment_Insights.png)
+01_Financial_Investment_Insights.png
 
 ### 2. Gender-Based Investment Preferences
 
-![Gender-Based Investment Preferences](Dashboard-Screenshots/02_Gender_Based_Investment_Preferences.png)
+
 
 ### 3. Impact of Savings Objectives on Investment Decisions
 
